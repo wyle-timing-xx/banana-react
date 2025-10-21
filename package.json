@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@nx/react": "21.6.5",
+    "nx": "21.6.5"
+  }
 }
